@@ -1,7 +1,10 @@
 # predict-product
+
 Machine Learning model that, based on two simple variables - the weight of the package and the type of packaging - is able to predict the electronic product contained inside the packaging.
 
-# Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
+
+
+### Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
 
 `python -m venv .logistic`
 
@@ -13,7 +16,7 @@ Machine Learning model that, based on two simple variables - the weight of the p
 
 `pip install -r requirements.txt`
 
-# Execute os scripts:
+### Execute os scripts:
 
 `python versoes.py`
 
